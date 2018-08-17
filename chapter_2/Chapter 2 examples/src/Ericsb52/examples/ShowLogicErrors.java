@@ -5,7 +5,7 @@ package Ericsb52.examples;
 
 /**
  * @author broad
- *
+ * 
  */
 public class ShowLogicErrors {
 

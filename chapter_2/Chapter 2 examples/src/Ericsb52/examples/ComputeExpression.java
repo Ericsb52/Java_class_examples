@@ -8,7 +8,7 @@ package Ericsb52.examples;
  *
  */
 public class ComputeExpression {
-
+ 
 	/**
 	 * Chapter 2.3
 	 */

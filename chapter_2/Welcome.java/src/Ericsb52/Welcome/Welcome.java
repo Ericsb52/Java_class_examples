@@ -4,7 +4,7 @@
 package Ericsb52.Welcome;
 
 /**
- * @author broad
+ * @author broad   
  *
  */
 public class Welcome {

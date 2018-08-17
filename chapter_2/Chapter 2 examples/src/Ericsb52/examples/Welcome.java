@@ -4,7 +4,7 @@ package Ericsb52.examples;
  * @author broad
  *
  */
-public class Welcome {
+public class Welcome { 
 
 	/**
 	 * chapter 2.1
